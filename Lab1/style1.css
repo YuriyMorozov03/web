@@ -1,0 +1,38 @@
+*{ 
+	background: #000000
+}
+.main {
+    padding: 0 30px;
+    font-size: 18pt;
+    color: #FFFFFF;
+}
+h1 {
+    font-size: 34pt;
+    color: #FF4500;
+    margin-top: 10px;
+}
+h2 {
+    font-size: 26pt;
+    color: #0000CD;
+    margin-top: 10px;
+}
+h3 {
+    font-size: 26pt;
+    color: #00FF00;
+    margin-top: 10px;
+}
+h4 {
+    font-size: 26pt;
+    color: #FF0000;
+    margin-top: 10px;
+}
+h5 {
+    font-size: 26pt;
+    color: #FFFF00;
+    margin-top: 10px;
+}
+img {
+    height: 300px;
+    width: 550px;
+    float: center;
+    padding: 1px;
